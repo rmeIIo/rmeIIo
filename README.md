@@ -1,6 +1,7 @@
-### Olá!! Eu sou o Roger, estudante em Análise e Desenvolvimento de Sistemas!
+### Olá!! Eu sou o Roger
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Hoje trabalho desenvolvendo projetos individuais
+- 🎓 Cursando 2º Semestre em Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando JavaScript
 - 😄 Pronomes: ele/dele
 
