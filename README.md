@@ -1,4 +1,4 @@
-### Olá!! Eu sou o Roger Correa
+### Olá!! Eu sou o Roger, estudante em Análise e Desenvolvimento de Sistemas!
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando JavaScript
