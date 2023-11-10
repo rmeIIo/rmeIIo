@@ -1,6 +1,6 @@
 ### Olá!! Eu sou o Roger
 
-- 🔭 Hoje trabalho desenvolvendo projetos individuais
+- 🔭 Estagiário em Desenvolvimento Web
 - 🎓 Cursando 2º Semestre em Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando JavaScript
 
