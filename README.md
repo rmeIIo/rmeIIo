@@ -1,6 +1,6 @@
 ### Olá!! Eu sou o Roger
 
-- 🔭 Estagiário em Desenvolvimento Web
+- 🔭 Estagiário front-end
 - 🎓 Cursando 2º Semestre em Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando JavaScript
 
