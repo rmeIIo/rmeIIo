@@ -1,15 +1,10 @@
 ### Olá!! Eu sou o Roger
 
-- 🔭 Estagiário front-end
-- 🎓 Cursando 2º Semestre em Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando JavaScript
+- 🔭 Desenvolvedor front-end
+- 🎓 Cursando 3º Semestre em Análise e Desenvolvimento de Sistemas
+- 🌱 Estudando PHP e Java
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ##
 
