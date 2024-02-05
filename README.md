@@ -4,7 +4,7 @@
 - 🎓 Cursando 3º Semestre em Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando PHP e Java
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,php,figma,wordpress,mysql)](https://skillicons.dev)
 
 ##
 
