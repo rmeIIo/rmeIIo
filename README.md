@@ -2,7 +2,7 @@
 
 - 🔭 Desenvolvedor front-end
 - 🎓 Cursando 3º Semestre em Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando PHP e Java
+- 🌱 Estudando React, PHP e Java
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,php,figma,wordpress,mysql)](https://skillicons.dev)
 
