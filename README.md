@@ -16,5 +16,4 @@
 </div>
 
 <div>
-  <a href="https://app.daily.dev/rcorreamello"><img src="https://api.daily.dev/devcards/v2/HsTnEAKbsaajnJzREOajp.png?r=s60&type=default" width="356" alt="Roger Correa's Dev Card"/></a>
-</div>
+  <a href="https://app.daily.dev/rcorreamello"><img src="https://api.daily.dev/devcards/v2/HsTnEAKbsaajnJzREOajp.png?type=wide&r=2yv" width="652" alt="Roger Correa's Dev Card"/></a></div>
