@@ -1,8 +1,8 @@
 ### Olá!! Eu sou o Roger
 
 - 🔭 Desenvolvedor front-end
-- 🎓 Cursando 3º Semestre em Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando React, PHP e Java
+- 🎓 Cursando 4º Semestre em Análise e Desenvolvimento de Sistemas
+- 🌱 Estudando React, Vue e Java
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,php,figma,wordpress,mysql)](https://skillicons.dev)
 
